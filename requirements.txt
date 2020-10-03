@@ -1,0 +1,15 @@
+keras==2.3.1
+tensorflow==2.1.0
+opencv-python==4.2.0
+matplotlib
+seaborn
+os
+csv
+random
+warnings
+sklearn==0.22.1
+gc
+pandas==1.0.3
+numpy==1.18.1
+scipy
+h5py==2.10.0
